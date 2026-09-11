@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.player-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 12px;
+  margin: 8px 0;
+  cursor: pointer;
+}
+
+.player-card:hover {
+  background-color: #f0f0f0;
+}

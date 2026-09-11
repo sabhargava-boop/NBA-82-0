@@ -1,44 +1,5 @@
 [
   {
-    "player": "Tyus Jones",
-    "season": "2025-26",
-    "team": "3TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 3.0,
-    "rpg": 1.1,
-    "apg": 2.4
-  },
-  {
-    "player": "Walter Clayton",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 7.8,
-    "rpg": 2.0,
-    "apg": 4.0
-  },
-  {
-    "player": "AJ Johnson",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 3.3,
-    "rpg": 1.1,
-    "apg": 1.0
-  },
-  {
     "player": "Dalen Terry",
     "season": "2025-26",
     "team": "2TM",
@@ -52,30 +13,30 @@
     "apg": 1.4
   },
   {
-    "player": "KJ Simpson",
+    "player": "Patrick Baldwin Jr.",
     "season": "2025-26",
-    "team": "2TM",
+    "team": "3TM",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 4.6,
-    "rpg": 1.9,
-    "apg": 2.2
+    "ppg": 3.7,
+    "rpg": 2.6,
+    "apg": 0.6
   },
   {
-    "player": "CJ McCollum",
+    "player": "Tyus Jones",
     "season": "2025-26",
-    "team": "2TM",
+    "team": "3TM",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 18.7,
-    "rpg": 3.3,
-    "apg": 3.9
+    "ppg": 3.0,
+    "rpg": 1.1,
+    "apg": 2.4
   },
   {
     "player": "Christian Koloko",
@@ -91,7 +52,7 @@
     "apg": 0.7
   },
   {
-    "player": "Khris Middleton",
+    "player": "AJ Johnson",
     "season": "2025-26",
     "team": "2TM",
     "mvp": false,
@@ -99,12 +60,12 @@
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 10.2,
-    "rpg": 3.7,
-    "apg": 2.8
+    "ppg": 3.3,
+    "rpg": 1.1,
+    "apg": 1.0
   },
   {
-    "player": "Darius Garland",
+    "player": "CJ McCollum",
     "season": "2025-26",
     "team": "2TM",
     "mvp": false,
@@ -112,9 +73,22 @@
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 18.8,
-    "rpg": 2.4,
-    "apg": 6.7
+    "ppg": 18.7,
+    "rpg": 3.3,
+    "apg": 3.9
+  },
+  {
+    "player": "KJ Simpson",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 4.6,
+    "rpg": 1.9,
+    "apg": 2.2
   },
   {
     "player": "Kyle Anderson",
@@ -130,17 +104,43 @@
     "apg": 2.9
   },
   {
-    "player": "Patrick Baldwin Jr.",
+    "player": "Darius Garland",
     "season": "2025-26",
-    "team": "3TM",
+    "team": "2TM",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 3.7,
-    "rpg": 2.6,
-    "apg": 0.6
+    "ppg": 18.8,
+    "rpg": 2.4,
+    "apg": 6.7
+  },
+  {
+    "player": "Khris Middleton",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 10.2,
+    "rpg": 3.7,
+    "apg": 2.8
+  },
+  {
+    "player": "De'Andre Hunter",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 13.7,
+    "rpg": 4.1,
+    "apg": 2.0
   },
   {
     "player": "Tyrese Martin",
@@ -221,7 +221,7 @@
     "apg": 3.3
   },
   {
-    "player": "Mason Plumlee",
+    "player": "Jevon Carter",
     "season": "2025-26",
     "team": "2TM",
     "mvp": false,
@@ -229,22 +229,9 @@
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 1.6,
-    "rpg": 2.7,
-    "apg": 1.0
-  },
-  {
-    "player": "PJ Hall",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 4.5,
-    "rpg": 3.9,
-    "apg": 0.5
+    "ppg": 6.4,
+    "rpg": 1.7,
+    "apg": 1.6
   },
   {
     "player": "Dalano Banton",
@@ -257,240 +244,6 @@
     "all_star": false,
     "ppg": 2.0,
     "rpg": 0.8,
-    "apg": 1.8
-  },
-  {
-    "player": "Mac McClung",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 6.1,
-    "rpg": 0.9,
-    "apg": 0.9
-  },
-  {
-    "player": "De'Andre Hunter",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 13.7,
-    "rpg": 4.1,
-    "apg": 2.0
-  },
-  {
-    "player": "Mo Bamba",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 2.5,
-    "rpg": 5.5,
-    "apg": 0.3
-  },
-  {
-    "player": "Kobe Brown",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 5.8,
-    "rpg": 3.0,
-    "apg": 1.3
-  },
-  {
-    "player": "Trayce Jackson-Davis",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 3.4,
-    "rpg": 2.7,
-    "apg": 0.7
-  },
-  {
-    "player": "V\u00edt Krej\u010d\u00ed",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 8.5,
-    "rpg": 2.3,
-    "apg": 1.5
-  },
-  {
-    "player": "Ochai Agbaji",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 5.1,
-    "rpg": 2.3,
-    "apg": 0.8
-  },
-  {
-    "player": "Luke Kennard",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 8.4,
-    "rpg": 2.3,
-    "apg": 2.2
-  },
-  {
-    "player": "Nick Richards",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 5.8,
-    "rpg": 5.1,
-    "apg": 0.3
-  },
-  {
-    "player": "Charles Bassey",
-    "season": "2025-26",
-    "team": "4TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 5.8,
-    "rpg": 4.4,
-    "apg": 0.5
-  },
-  {
-    "player": "Cam Thomas",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 13.5,
-    "rpg": 1.7,
-    "apg": 2.6
-  },
-  {
-    "player": "Trae Young",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 17.9,
-    "rpg": 2.0,
-    "apg": 8.0
-  },
-  {
-    "player": "Coby White",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 17.4,
-    "rpg": 3.4,
-    "apg": 4.0
-  },
-  {
-    "player": "Jared McCain",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 8.3,
-    "rpg": 2.0,
-    "apg": 1.3
-  },
-  {
-    "player": "Bennedict Mathurin",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 17.6,
-    "rpg": 5.4,
-    "apg": 2.4
-  },
-  {
-    "player": "Kevin Huerter",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 10.0,
-    "rpg": 3.5,
-    "apg": 2.6
-  },
-  {
-    "player": "Jeremy Sochan",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 3.6,
-    "rpg": 2.4,
-    "apg": 0.9
-  },
-  {
-    "player": "Jaden Ivey",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 8.5,
-    "rpg": 2.5,
     "apg": 1.8
   },
   {
@@ -507,7 +260,7 @@
     "apg": 0.4
   },
   {
-    "player": "Jevon Carter",
+    "player": "Walter Clayton",
     "season": "2025-26",
     "team": "2TM",
     "mvp": false,
@@ -515,9 +268,243 @@
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 6.4,
+    "ppg": 7.8,
+    "rpg": 2.0,
+    "apg": 4.0
+  },
+  {
+    "player": "Cam Thomas",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 13.5,
     "rpg": 1.7,
-    "apg": 1.6
+    "apg": 2.6
+  },
+  {
+    "player": "Trayce Jackson-Davis",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 3.4,
+    "rpg": 2.7,
+    "apg": 0.7
+  },
+  {
+    "player": "Kristaps Porzi\u0146\u0123is",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 16.7,
+    "rpg": 5.2,
+    "apg": 2.5
+  },
+  {
+    "player": "V\u00edt Krej\u010d\u00ed",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 8.5,
+    "rpg": 2.3,
+    "apg": 1.5
+  },
+  {
+    "player": "Mo Bamba",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 2.5,
+    "rpg": 5.5,
+    "apg": 0.3
+  },
+  {
+    "player": "Luke Kennard",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 8.4,
+    "rpg": 2.3,
+    "apg": 2.2
+  },
+  {
+    "player": "Charles Bassey",
+    "season": "2025-26",
+    "team": "4TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 5.8,
+    "rpg": 4.4,
+    "apg": 0.5
+  },
+  {
+    "player": "Ochai Agbaji",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 5.1,
+    "rpg": 2.3,
+    "apg": 0.8
+  },
+  {
+    "player": "Coby White",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 17.4,
+    "rpg": 3.4,
+    "apg": 4.0
+  },
+  {
+    "player": "Trae Young",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 17.9,
+    "rpg": 2.0,
+    "apg": 8.0
+  },
+  {
+    "player": "Jared McCain",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 8.3,
+    "rpg": 2.0,
+    "apg": 1.3
+  },
+  {
+    "player": "Nick Richards",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 5.8,
+    "rpg": 5.1,
+    "apg": 0.3
+  },
+  {
+    "player": "Bennedict Mathurin",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 17.6,
+    "rpg": 5.4,
+    "apg": 2.4
+  },
+  {
+    "player": "Jeremy Sochan",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 3.6,
+    "rpg": 2.4,
+    "apg": 0.9
+  },
+  {
+    "player": "Kevin Huerter",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 10.0,
+    "rpg": 3.5,
+    "apg": 2.6
+  },
+  {
+    "player": "Jaden Ivey",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 8.5,
+    "rpg": 2.5,
+    "apg": 1.8
+  },
+  {
+    "player": "Mac McClung",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 6.1,
+    "rpg": 0.9,
+    "apg": 0.9
+  },
+  {
+    "player": "Mason Plumlee",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 1.6,
+    "rpg": 2.7,
+    "apg": 1.0
   },
   {
     "player": "Leonard Miller",
@@ -559,7 +546,7 @@
     "apg": 4.2
   },
   {
-    "player": "Xavier Tillman Sr.",
+    "player": "Guerschon Yabusele",
     "season": "2025-26",
     "team": "2TM",
     "mvp": false,
@@ -567,9 +554,9 @@
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 1.5,
-    "rpg": 1.4,
-    "apg": 0.4
+    "ppg": 5.6,
+    "rpg": 3.5,
+    "apg": 0.9
   },
   {
     "player": "James Harden",
@@ -585,7 +572,7 @@
     "apg": 8.0
   },
   {
-    "player": "John Konchar",
+    "player": "Julian Phillips",
     "season": "2025-26",
     "team": "2TM",
     "mvp": false,
@@ -593,9 +580,9 @@
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 4.4,
-    "rpg": 4.3,
-    "apg": 2.1
+    "ppg": 2.9,
+    "rpg": 1.0,
+    "apg": 0.2
   },
   {
     "player": "Keon Ellis",
@@ -609,6 +596,19 @@
     "ppg": 6.7,
     "rpg": 1.9,
     "apg": 1.0
+  },
+  {
+    "player": "John Konchar",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 4.4,
+    "rpg": 4.3,
+    "apg": 2.1
   },
   {
     "player": "Nikola Vu\u010devi\u0107",
@@ -650,19 +650,6 @@
     "apg": 4.9
   },
   {
-    "player": "RayJ Dennis",
-    "season": "2025-26",
-    "team": "3TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 4.4,
-    "rpg": 1.5,
-    "apg": 1.9
-  },
-  {
     "player": "Taylor Hendricks",
     "season": "2025-26",
     "team": "2TM",
@@ -676,17 +663,17 @@
     "apg": 0.9
   },
   {
-    "player": "Julian Phillips",
+    "player": "RayJ Dennis",
     "season": "2025-26",
-    "team": "2TM",
+    "team": "3TM",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 2.9,
-    "rpg": 1.0,
-    "apg": 0.2
+    "ppg": 4.4,
+    "rpg": 1.5,
+    "apg": 1.9
   },
   {
     "player": "Jose Alvarado",
@@ -702,19 +689,6 @@
     "apg": 3.4
   },
   {
-    "player": "Gabe Vincent",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 4.4,
-    "rpg": 1.0,
-    "apg": 1.4
-  },
-  {
     "player": "Anfernee Simons",
     "season": "2025-26",
     "team": "2TM",
@@ -726,6 +700,19 @@
     "ppg": 14.3,
     "rpg": 2.5,
     "apg": 2.4
+  },
+  {
+    "player": "Gabe Vincent",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 4.4,
+    "rpg": 1.0,
+    "apg": 1.4
   },
   {
     "player": "Corey Kispert",
@@ -754,19 +741,6 @@
     "apg": 3.6
   },
   {
-    "player": "Jaden Hardy",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 9.2,
-    "rpg": 1.5,
-    "apg": 1.0
-  },
-  {
     "player": "Keshon Gilbert",
     "season": "2025-26",
     "team": "2TM",
@@ -778,6 +752,19 @@
     "ppg": 4.3,
     "rpg": 1.3,
     "apg": 3.0
+  },
+  {
+    "player": "Jaden Hardy",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 9.2,
+    "rpg": 1.5,
+    "apg": 1.0
   },
   {
     "player": "Isaiah Jackson",
@@ -793,7 +780,7 @@
     "apg": 0.9
   },
   {
-    "player": "Kristaps Porzi\u0146\u0123is",
+    "player": "Kobe Brown",
     "season": "2025-26",
     "team": "2TM",
     "mvp": false,
@@ -801,9 +788,113 @@
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 16.7,
-    "rpg": 5.2,
-    "apg": 2.5
+    "ppg": 5.8,
+    "rpg": 3.0,
+    "apg": 1.3
+  },
+  {
+    "player": "Ivica Zubac",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 14.1,
+    "rpg": 10.6,
+    "apg": 2.2
+  },
+  {
+    "player": "Jock Landale",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 10.6,
+    "rpg": 5.7,
+    "apg": 1.7
+  },
+  {
+    "player": "Riley Minix",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 3.9,
+    "rpg": 0.7,
+    "apg": 0.6
+  },
+  {
+    "player": "Xavier Tillman Sr.",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 1.5,
+    "rpg": 1.4,
+    "apg": 0.4
+  },
+  {
+    "player": "Buddy Hield",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 7.6,
+    "rpg": 2.3,
+    "apg": 1.4
+  },
+  {
+    "player": "Marvin Bagley III",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 10.5,
+    "rpg": 6.1,
+    "apg": 1.4
+  },
+  {
+    "player": "Isaac Jones",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 1.3,
+    "rpg": 0.7,
+    "apg": 0.1
+  },
+  {
+    "player": "Amir Coffey",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 3.2,
+    "rpg": 1.2,
+    "apg": 0.6
   },
   {
     "player": "Tony Bradley",
@@ -816,6 +907,19 @@
     "all_star": false,
     "ppg": 4.0,
     "rpg": 2.8,
+    "apg": 0.5
+  },
+  {
+    "player": "PJ Hall",
+    "season": "2025-26",
+    "team": "2TM",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 4.5,
+    "rpg": 3.9,
     "apg": 0.5
   },
   {
@@ -832,147 +936,43 @@
     "apg": 2.4
   },
   {
-    "player": "Guerschon Yabusele",
+    "player": "Tyrese Proctor",
     "season": "2025-26",
-    "team": "2TM",
+    "team": "CLE",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 5.6,
+    "ppg": 5.4,
+    "rpg": 1.3,
+    "apg": 1.5
+  },
+  {
+    "player": "Asa Newell",
+    "season": "2025-26",
+    "team": "ATL",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 5.2,
+    "rpg": 2.2,
+    "apg": 0.6
+  },
+  {
+    "player": "Sion James",
+    "season": "2025-26",
+    "team": "CHO",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 5.4,
     "rpg": 3.5,
-    "apg": 0.9
-  },
-  {
-    "player": "Marvin Bagley III",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 10.5,
-    "rpg": 6.1,
-    "apg": 1.4
-  },
-  {
-    "player": "Jock Landale",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 10.6,
-    "rpg": 5.7,
-    "apg": 1.7
-  },
-  {
-    "player": "Buddy Hield",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 7.6,
-    "rpg": 2.3,
-    "apg": 1.4
-  },
-  {
-    "player": "Ivica Zubac",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 14.1,
-    "rpg": 10.6,
-    "apg": 2.2
-  },
-  {
-    "player": "Isaac Jones",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 1.3,
-    "rpg": 0.7,
-    "apg": 0.1
-  },
-  {
-    "player": "Riley Minix",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 3.9,
-    "rpg": 0.7,
-    "apg": 0.6
-  },
-  {
-    "player": "Amir Coffey",
-    "season": "2025-26",
-    "team": "2TM",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 3.2,
-    "rpg": 1.2,
-    "apg": 0.6
-  },
-  {
-    "player": "Pete Nance",
-    "season": "2025-26",
-    "team": "MIL",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 5.4,
-    "rpg": 2.7,
-    "apg": 1.0
-  },
-  {
-    "player": "Jordan Walsh",
-    "season": "2025-26",
-    "team": "BOS",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 5.4,
-    "rpg": 4.0,
-    "apg": 0.8
-  },
-  {
-    "player": "Haywood Highsmith",
-    "season": "2025-26",
-    "team": "PHO",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 5.4,
-    "rpg": 1.9,
-    "apg": 1.0
+    "apg": 2.0
   },
   {
     "player": "Tre Mann",
@@ -988,7 +988,7 @@
     "apg": 1.6
   },
   {
-    "player": "Jalen Pickett",
+    "player": "Spencer Jones",
     "season": "2025-26",
     "team": "DEN",
     "mvp": false,
@@ -996,22 +996,48 @@
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 5.2,
-    "rpg": 2.3,
-    "apg": 2.3
+    "ppg": 5.5,
+    "rpg": 3.3,
+    "apg": 0.8
   },
   {
-    "player": "Tyrese Proctor",
+    "player": "Garrison Mathews",
     "season": "2025-26",
-    "team": "CLE",
+    "team": "IND",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 5.2,
+    "rpg": 1.1,
+    "apg": 0.7
+  },
+  {
+    "player": "Dylan Cardwell",
+    "season": "2025-26",
+    "team": "SAC",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 5.4,
-    "rpg": 1.3,
-    "apg": 1.5
+    "rpg": 7.5,
+    "apg": 1.4
+  },
+  {
+    "player": "Jordan Walsh",
+    "season": "2025-26",
+    "team": "BOS",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 5.4,
+    "rpg": 4.0,
+    "apg": 0.8
   },
   {
     "player": "Baylor Scheierman",
@@ -1040,82 +1066,17 @@
     "apg": 0.7
   },
   {
-    "player": "Asa Newell",
+    "player": "Haywood Highsmith",
     "season": "2025-26",
-    "team": "ATL",
+    "team": "PHO",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 5.2,
-    "rpg": 2.2,
-    "apg": 0.6
-  },
-  {
-    "player": "Drew Eubanks",
-    "season": "2025-26",
-    "team": "SAC",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 5.2,
-    "rpg": 3.0,
-    "apg": 0.5
-  },
-  {
-    "player": "Trey Alexander",
-    "season": "2025-26",
-    "team": "NOP",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 5.2,
-    "rpg": 1.2,
+    "ppg": 5.4,
+    "rpg": 1.9,
     "apg": 1.0
-  },
-  {
-    "player": "Dylan Cardwell",
-    "season": "2025-26",
-    "team": "SAC",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 5.4,
-    "rpg": 7.5,
-    "apg": 1.4
-  },
-  {
-    "player": "Garrison Mathews",
-    "season": "2025-26",
-    "team": "IND",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 5.2,
-    "rpg": 1.1,
-    "apg": 0.7
-  },
-  {
-    "player": "Sion James",
-    "season": "2025-26",
-    "team": "CHO",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 5.4,
-    "rpg": 3.5,
-    "apg": 2.0
   },
   {
     "player": "Andersson Garcia",
@@ -1131,6 +1092,45 @@
     "apg": 2.8
   },
   {
+    "player": "Drew Eubanks",
+    "season": "2025-26",
+    "team": "SAC",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 5.2,
+    "rpg": 3.0,
+    "apg": 0.5
+  },
+  {
+    "player": "Pete Nance",
+    "season": "2025-26",
+    "team": "MIL",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 5.4,
+    "rpg": 2.7,
+    "apg": 1.0
+  },
+  {
+    "player": "Trey Alexander",
+    "season": "2025-26",
+    "team": "NOP",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 5.2,
+    "rpg": 1.2,
+    "apg": 1.0
+  },
+  {
     "player": "Luka Don\u010di\u0107",
     "season": "2025-26",
     "team": "LAL",
@@ -1144,6 +1144,19 @@
     "apg": 8.3
   },
   {
+    "player": "Jalen Pickett",
+    "season": "2025-26",
+    "team": "DEN",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 5.2,
+    "rpg": 2.3,
+    "apg": 2.3
+  },
+  {
     "player": "Marcus Sasser",
     "season": "2025-26",
     "team": "DET",
@@ -1155,19 +1168,6 @@
     "ppg": 5.2,
     "rpg": 1.0,
     "apg": 2.0
-  },
-  {
-    "player": "Nikola Topi\u0107",
-    "season": "2025-26",
-    "team": "OKC",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 5.2,
-    "rpg": 1.9,
-    "apg": 4.4
   },
   {
     "player": "Moussa Cisse",
@@ -1261,30 +1261,30 @@
     "apg": 3.2
   },
   {
-    "player": "DeAndre Jordan",
+    "player": "Jericho Sims",
     "season": "2025-26",
-    "team": "NOP",
+    "team": "MIL",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 4.4,
-    "rpg": 6.3,
-    "apg": 0.9
+    "ppg": 5.0,
+    "rpg": 5.5,
+    "apg": 1.6
   },
   {
-    "player": "Adem Bona",
+    "player": "Nikola Topi\u0107",
     "season": "2025-26",
-    "team": "PHI",
+    "team": "OKC",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 4.8,
-    "rpg": 4.3,
-    "apg": 0.5
+    "ppg": 5.2,
+    "rpg": 1.9,
+    "apg": 4.4
   },
   {
     "player": "Sidy Cissoko",
@@ -1326,17 +1326,30 @@
     "apg": 0.8
   },
   {
-    "player": "Jericho Sims",
+    "player": "Adem Bona",
     "season": "2025-26",
-    "team": "MIL",
+    "team": "PHI",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 5.0,
-    "rpg": 5.5,
-    "apg": 1.6
+    "ppg": 4.8,
+    "rpg": 4.3,
+    "apg": 0.5
+  },
+  {
+    "player": "Zyon Pullin",
+    "season": "2025-26",
+    "team": "MIN",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 4.6,
+    "rpg": 0.6,
+    "apg": 1.8
   },
   {
     "player": "Blake Wesley",
@@ -1352,17 +1365,17 @@
     "apg": 2.0
   },
   {
-    "player": "Spencer Jones",
+    "player": "Tyler Smith",
     "season": "2025-26",
-    "team": "DEN",
+    "team": "DAL",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 5.5,
-    "rpg": 3.3,
-    "apg": 0.8
+    "ppg": 4.7,
+    "rpg": 2.8,
+    "apg": 0.4
   },
   {
     "player": "Lonzo Ball",
@@ -1391,45 +1404,6 @@
     "apg": 0.8
   },
   {
-    "player": "Zyon Pullin",
-    "season": "2025-26",
-    "team": "MIN",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 4.6,
-    "rpg": 0.6,
-    "apg": 1.8
-  },
-  {
-    "player": "Tyler Smith",
-    "season": "2025-26",
-    "team": "DAL",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 4.7,
-    "rpg": 2.8,
-    "apg": 0.4
-  },
-  {
-    "player": "Nae'Qwan Tomlin",
-    "season": "2025-26",
-    "team": "CLE",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 5.8,
-    "rpg": 2.9,
-    "apg": 0.8
-  },
-  {
     "player": "Jett Howard",
     "season": "2025-26",
     "team": "ORL",
@@ -1443,7 +1417,7 @@
     "apg": 0.8
   },
   {
-    "player": "Robert Williams",
+    "player": "Matisse Thybulle",
     "season": "2025-26",
     "team": "POR",
     "mvp": false,
@@ -1451,9 +1425,48 @@
     "all_nba": null,
     "champion": false,
     "all_star": false,
+    "ppg": 5.8,
+    "rpg": 2.0,
+    "apg": 0.9
+  },
+  {
+    "player": "Aaron Holiday",
+    "season": "2025-26",
+    "team": "HOU",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 5.5,
+    "rpg": 1.0,
+    "apg": 1.1
+  },
+  {
+    "player": "Kevin Love",
+    "season": "2025-26",
+    "team": "UTA",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
     "ppg": 6.7,
-    "rpg": 7.0,
-    "apg": 1.0
+    "rpg": 5.8,
+    "apg": 1.8
+  },
+  {
+    "player": "Ryan Nembhard",
+    "season": "2025-26",
+    "team": "DAL",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 6.6,
+    "rpg": 2.2,
+    "apg": 5.3
   },
   {
     "player": "Jamal Shead",
@@ -1573,43 +1586,17 @@
     "apg": 0.9
   },
   {
-    "player": "Ryan Nembhard",
+    "player": "Robert Williams",
     "season": "2025-26",
-    "team": "DAL",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 6.6,
-    "rpg": 2.2,
-    "apg": 5.3
-  },
-  {
-    "player": "Kevin Love",
-    "season": "2025-26",
-    "team": "UTA",
+    "team": "POR",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 6.7,
-    "rpg": 5.8,
-    "apg": 1.8
-  },
-  {
-    "player": "Aaron Holiday",
-    "season": "2025-26",
-    "team": "HOU",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 5.5,
-    "rpg": 1.0,
-    "apg": 1.1
+    "rpg": 7.0,
+    "apg": 1.0
   },
   {
     "player": "Cole Anthony",
@@ -1622,6 +1609,32 @@
     "all_star": false,
     "ppg": 6.7,
     "rpg": 2.5,
+    "apg": 3.5
+  },
+  {
+    "player": "Killian Hayes",
+    "season": "2025-26",
+    "team": "SAC",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 5.5,
+    "rpg": 2.3,
+    "apg": 3.5
+  },
+  {
+    "player": "Pat Spencer",
+    "season": "2025-26",
+    "team": "GSW",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 7.2,
+    "rpg": 2.4,
     "apg": 3.5
   },
   {
@@ -1820,17 +1833,17 @@
     "apg": 2.0
   },
   {
-    "player": "Kasparas Jaku\u010dionis",
+    "player": "Ryan Dunn",
     "season": "2025-26",
-    "team": "MIA",
+    "team": "PHO",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 6.2,
-    "rpg": 2.6,
-    "apg": 2.6
+    "ppg": 5.8,
+    "rpg": 4.2,
+    "apg": 1.5
   },
   {
     "player": "Anthony Gill",
@@ -1859,30 +1872,30 @@
     "apg": 1.4
   },
   {
-    "player": "Matisse Thybulle",
+    "player": "Tyler Kolek",
     "season": "2025-26",
-    "team": "POR",
+    "team": "NYK",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": true,
+    "all_star": false,
+    "ppg": 4.4,
+    "rpg": 1.6,
+    "apg": 2.7
+  },
+  {
+    "player": "Nae'Qwan Tomlin",
+    "season": "2025-26",
+    "team": "CLE",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 5.8,
-    "rpg": 2.0,
-    "apg": 0.9
-  },
-  {
-    "player": "Jase Richardson",
-    "season": "2025-26",
-    "team": "ORL",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 4.4,
-    "rpg": 1.2,
-    "apg": 1.1
+    "rpg": 2.9,
+    "apg": 0.8
   },
   {
     "player": "Dean Wade",
@@ -2015,32 +2028,6 @@
     "apg": 0.5
   },
   {
-    "player": "Killian Hayes",
-    "season": "2025-26",
-    "team": "SAC",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 5.5,
-    "rpg": 2.3,
-    "apg": 3.5
-  },
-  {
-    "player": "Ryan Dunn",
-    "season": "2025-26",
-    "team": "PHO",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 5.8,
-    "rpg": 4.2,
-    "apg": 1.5
-  },
-  {
     "player": "Branden Carlson",
     "season": "2025-26",
     "team": "OKC",
@@ -2067,17 +2054,30 @@
     "apg": 1.5
   },
   {
-    "player": "Tidjane Sala\u00fcn",
+    "player": "Hayden Gray",
     "season": "2025-26",
-    "team": "CHO",
+    "team": "UTA",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 6.0,
-    "rpg": 4.0,
-    "apg": 0.7
+    "rpg": 0.0,
+    "apg": 1.0
+  },
+  {
+    "player": "Kasparas Jaku\u010dionis",
+    "season": "2025-26",
+    "team": "MIA",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 6.2,
+    "rpg": 2.6,
+    "apg": 2.6
   },
   {
     "player": "Jahmai Mashack",
@@ -2132,17 +2132,17 @@
     "apg": 1.3
   },
   {
-    "player": "Hayden Gray",
+    "player": "Tidjane Sala\u00fcn",
     "season": "2025-26",
-    "team": "UTA",
+    "team": "CHO",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 6.0,
-    "rpg": 0.0,
-    "apg": 1.0
+    "rpg": 4.0,
+    "apg": 0.7
   },
   {
     "player": "Goga Bitadze",
@@ -2158,7 +2158,59 @@
     "apg": 1.3
   },
   {
-    "player": "Tyler Kolek",
+    "player": "DeAndre Jordan",
+    "season": "2025-26",
+    "team": "NOP",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 4.4,
+    "rpg": 6.3,
+    "apg": 0.9
+  },
+  {
+    "player": "Ron Harper Jr.",
+    "season": "2025-26",
+    "team": "BOS",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 4.2,
+    "rpg": 1.7,
+    "apg": 0.8
+  },
+  {
+    "player": "Jase Richardson",
+    "season": "2025-26",
+    "team": "ORL",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 4.4,
+    "rpg": 1.2,
+    "apg": 1.1
+  },
+  {
+    "player": "Trentyn Flowers",
+    "season": "2025-26",
+    "team": "CHI",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 2.0,
+    "rpg": 0.5,
+    "apg": 0.5
+  },
+  {
+    "player": "Ariel Hukporti",
     "season": "2025-26",
     "team": "NYK",
     "mvp": false,
@@ -2166,48 +2218,9 @@
     "all_nba": null,
     "champion": true,
     "all_star": false,
-    "ppg": 4.4,
-    "rpg": 1.6,
-    "apg": 2.7
-  },
-  {
-    "player": "Dalton Knecht",
-    "season": "2025-26",
-    "team": "LAL",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 4.2,
-    "rpg": 1.4,
-    "apg": 0.4
-  },
-  {
-    "player": "Jarred Vanderbilt",
-    "season": "2025-26",
-    "team": "LAL",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 4.4,
-    "rpg": 4.5,
-    "apg": 1.3
-  },
-  {
-    "player": "Colby Jones",
-    "season": "2025-26",
-    "team": "DET",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 2.0,
-    "rpg": 4.0,
-    "apg": 2.0
+    "ppg": 2.2,
+    "rpg": 2.9,
+    "apg": 0.5
   },
   {
     "player": "Alijah Martin",
@@ -2249,17 +2262,30 @@
     "apg": 0.4
   },
   {
-    "player": "Trentyn Flowers",
+    "player": "Colby Jones",
     "season": "2025-26",
-    "team": "CHI",
+    "team": "DET",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 2.0,
-    "rpg": 0.5,
-    "apg": 0.5
+    "rpg": 4.0,
+    "apg": 2.0
+  },
+  {
+    "player": "Jeff Green",
+    "season": "2025-26",
+    "team": "HOU",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 2.2,
+    "rpg": 0.8,
+    "apg": 0.3
   },
   {
     "player": "Johnny Juzang",
@@ -2273,19 +2299,6 @@
     "ppg": 2.0,
     "rpg": 0.8,
     "apg": 0.3
-  },
-  {
-    "player": "Yang Hansen",
-    "season": "2025-26",
-    "team": "POR",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 2.2,
-    "rpg": 1.5,
-    "apg": 0.5
   },
   {
     "player": "Jayson Kent",
@@ -2379,69 +2392,43 @@
     "apg": 0.5
   },
   {
-    "player": "Isaiah Livers",
+    "player": "Yang Hansen",
     "season": "2025-26",
-    "team": "PHO",
+    "team": "POR",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 1.8,
-    "rpg": 1.7,
-    "apg": 0.6
-  },
-  {
-    "player": "Ariel Hukporti",
-    "season": "2025-26",
-    "team": "NYK",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": true,
-    "all_star": false,
     "ppg": 2.2,
-    "rpg": 2.9,
+    "rpg": 1.5,
     "apg": 0.5
   },
   {
-    "player": "Jeff Green",
+    "player": "Luke Travers",
     "season": "2025-26",
-    "team": "HOU",
+    "team": "CLE",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 2.2,
-    "rpg": 0.8,
-    "apg": 0.3
+    "ppg": 2.3,
+    "rpg": 2.0,
+    "apg": 0.8
   },
   {
-    "player": "Orlando Robinson",
+    "player": "Cody Martin",
     "season": "2025-26",
-    "team": "ORL",
+    "team": "IND",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 1.8,
-    "rpg": 1.0,
-    "apg": 0.8
-  },
-  {
-    "player": "JD Davison",
-    "season": "2025-26",
-    "team": "HOU",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 2.5,
-    "rpg": 1.2,
-    "apg": 1.3
+    "rpg": 3.5,
+    "apg": 0.5
   },
   {
     "player": "Gary Harris",
@@ -2496,6 +2483,32 @@
     "apg": 0.4
   },
   {
+    "player": "JD Davison",
+    "season": "2025-26",
+    "team": "HOU",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 2.5,
+    "rpg": 1.2,
+    "apg": 1.3
+  },
+  {
+    "player": "Caleb Houstan",
+    "season": "2025-26",
+    "team": "ATL",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 2.3,
+    "rpg": 0.6,
+    "apg": 0.2
+  },
+  {
     "player": "John Tonje",
     "season": "2025-26",
     "team": "BOS",
@@ -2507,19 +2520,6 @@
     "ppg": 2.5,
     "rpg": 1.0,
     "apg": 0.3
-  },
-  {
-    "player": "Luke Travers",
-    "season": "2025-26",
-    "team": "CLE",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 2.3,
-    "rpg": 2.0,
-    "apg": 0.8
   },
   {
     "player": "Hunter Dickinson",
@@ -2613,56 +2613,69 @@
     "apg": 0.3
   },
   {
-    "player": "Caleb Houstan",
+    "player": "Isaiah Livers",
     "season": "2025-26",
-    "team": "ATL",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 2.3,
-    "rpg": 0.6,
-    "apg": 0.2
-  },
-  {
-    "player": "Cody Martin",
-    "season": "2025-26",
-    "team": "IND",
+    "team": "PHO",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 1.8,
-    "rpg": 3.5,
-    "apg": 0.5
-  },
-  {
-    "player": "Jahmir Young",
-    "season": "2025-26",
-    "team": "MIA",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 1.8,
-    "rpg": 0.3,
+    "rpg": 1.7,
     "apg": 0.6
   },
   {
-    "player": "Vladislav Goldin",
+    "player": "Orlando Robinson",
     "season": "2025-26",
-    "team": "MIA",
+    "team": "ORL",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 1.8,
+    "rpg": 1.0,
+    "apg": 0.8
+  },
+  {
+    "player": "Jarred Vanderbilt",
+    "season": "2025-26",
+    "team": "LAL",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 4.4,
+    "rpg": 4.5,
+    "apg": 1.3
+  },
+  {
+    "player": "Markelle Fultz",
+    "season": "2025-26",
+    "team": "TOR",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 0.8,
-    "rpg": 1.0,
-    "apg": 0.3
+    "rpg": 0.2,
+    "apg": 1.6
+  },
+  {
+    "player": "Trey Jemison",
+    "season": "2025-26",
+    "team": "NYK",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": true,
+    "all_star": false,
+    "ppg": 1.0,
+    "rpg": 1.4,
+    "apg": 0.4
   },
   {
     "player": "Trevor Keels",
@@ -2756,17 +2769,30 @@
     "apg": 0.0
   },
   {
-    "player": "Markelle Fultz",
+    "player": "Vladislav Goldin",
     "season": "2025-26",
-    "team": "TOR",
+    "team": "MIA",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 0.8,
-    "rpg": 0.2,
-    "apg": 1.6
+    "rpg": 1.0,
+    "apg": 0.3
+  },
+  {
+    "player": "Javonte Cooke",
+    "season": "2025-26",
+    "team": "POR",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 1.2,
+    "rpg": 1.0,
+    "apg": 0.4
   },
   {
     "player": "Chris Ma\u00f1on",
@@ -2780,19 +2806,6 @@
     "ppg": 0.8,
     "rpg": 1.1,
     "apg": 0.3
-  },
-  {
-    "player": "Kyle Lowry",
-    "season": "2025-26",
-    "team": "PHI",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 1.2,
-    "rpg": 0.6,
-    "apg": 0.8
   },
   {
     "player": "Drew Peterson",
@@ -2886,43 +2899,43 @@
     "apg": 0.0
   },
   {
-    "player": "Chucky Hepburn",
+    "player": "Kyle Lowry",
     "season": "2025-26",
-    "team": "TOR",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 0.0,
-    "rpg": 0.5,
-    "apg": 1.0
-  },
-  {
-    "player": "Trey Jemison",
-    "season": "2025-26",
-    "team": "NYK",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": true,
-    "all_star": false,
-    "ppg": 1.0,
-    "rpg": 1.4,
-    "apg": 0.4
-  },
-  {
-    "player": "Javonte Cooke",
-    "season": "2025-26",
-    "team": "POR",
+    "team": "PHI",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 1.2,
-    "rpg": 1.0,
-    "apg": 0.4
+    "rpg": 0.6,
+    "apg": 0.8
+  },
+  {
+    "player": "TyTy Washington Jr.",
+    "season": "2025-26",
+    "team": "LAC",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 1.3,
+    "rpg": 0.4,
+    "apg": 1.1
+  },
+  {
+    "player": "Jahmir Young",
+    "season": "2025-26",
+    "team": "MIA",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 1.8,
+    "rpg": 0.3,
+    "apg": 0.6
   },
   {
     "player": "Brooks Barnhizer",
@@ -2936,19 +2949,6 @@
     "ppg": 1.7,
     "rpg": 2.0,
     "apg": 0.6
-  },
-  {
-    "player": "Buddy Boeheim",
-    "season": "2025-26",
-    "team": "OKC",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 1.5,
-    "rpg": 0.0,
-    "apg": 0.0
   },
   {
     "player": "Pac\u00f4me Dadiet",
@@ -3003,6 +3003,32 @@
     "apg": 0.2
   },
   {
+    "player": "Buddy Boeheim",
+    "season": "2025-26",
+    "team": "OKC",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 1.5,
+    "rpg": 0.0,
+    "apg": 0.0
+  },
+  {
+    "player": "Dillon Jones",
+    "season": "2025-26",
+    "team": "NYK",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": true,
+    "all_star": false,
+    "ppg": 1.3,
+    "rpg": 1.0,
+    "apg": 0.6
+  },
+  {
     "player": "Joe Ingles",
     "season": "2025-26",
     "team": "MIN",
@@ -3014,19 +3040,6 @@
     "ppg": 1.5,
     "rpg": 0.7,
     "apg": 1.3
-  },
-  {
-    "player": "TyTy Washington Jr.",
-    "season": "2025-26",
-    "team": "LAC",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 1.3,
-    "rpg": 0.4,
-    "apg": 1.1
   },
   {
     "player": "Jonathan Mogbo",
@@ -3094,19 +3107,6 @@
     "apg": 0.3
   },
   {
-    "player": "Dillon Jones",
-    "season": "2025-26",
-    "team": "NYK",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": true,
-    "all_star": false,
-    "ppg": 1.3,
-    "rpg": 1.0,
-    "apg": 0.6
-  },
-  {
     "player": "Rocco Zikarsky",
     "season": "2025-26",
     "team": "MIN",
@@ -3131,6 +3131,32 @@
     "ppg": 2.8,
     "rpg": 1.6,
     "apg": 0.5
+  },
+  {
+    "player": "Norchad Omier",
+    "season": "2025-26",
+    "team": "LAC",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 2.8,
+    "rpg": 1.2,
+    "apg": 0.3
+  },
+  {
+    "player": "Omer Yurtseven",
+    "season": "2025-26",
+    "team": "GSW",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 3.8,
+    "rpg": 3.3,
+    "apg": 0.9
   },
   {
     "player": "Joan Beringer",
@@ -3211,30 +3237,17 @@
     "apg": 1.2
   },
   {
-    "player": "Omer Yurtseven",
+    "player": "Jaylen Clark",
     "season": "2025-26",
-    "team": "GSW",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 3.8,
-    "rpg": 3.3,
-    "apg": 0.9
-  },
-  {
-    "player": "Brandon Clarke",
-    "season": "2025-26",
-    "team": "MEM",
+    "team": "MIN",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 4.0,
-    "rpg": 3.0,
-    "apg": 0.5
+    "rpg": 1.8,
+    "apg": 0.6
   },
   {
     "player": "DaRon Holmes",
@@ -3289,43 +3302,43 @@
     "apg": 0.9
   },
   {
-    "player": "Jaylen Clark",
+    "player": "Brandon Clarke",
     "season": "2025-26",
-    "team": "MIN",
+    "team": "MEM",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 4.0,
-    "rpg": 1.8,
-    "apg": 0.6
+    "rpg": 3.0,
+    "apg": 0.5
   },
   {
-    "player": "Norchad Omier",
+    "player": "Kevon Looney",
     "season": "2025-26",
-    "team": "LAC",
+    "team": "NOP",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 2.8,
-    "rpg": 1.2,
-    "apg": 0.3
+    "rpg": 5.6,
+    "apg": 1.6
   },
   {
-    "player": "Grant Nelson",
+    "player": "Liam McNeeley",
     "season": "2025-26",
-    "team": "BRK",
+    "team": "CHO",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 4.3,
-    "rpg": 1.5,
-    "apg": 1.3
+    "rpg": 2.4,
+    "apg": 0.8
   },
   {
     "player": "Rasheer Fleming",
@@ -3406,17 +3419,17 @@
     "apg": 1.9
   },
   {
-    "player": "Liam McNeeley",
+    "player": "Grant Nelson",
     "season": "2025-26",
-    "team": "CHO",
+    "team": "BRK",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 4.3,
-    "rpg": 2.4,
-    "apg": 0.8
+    "rpg": 1.5,
+    "apg": 1.3
   },
   {
     "player": "Micah Peavy",
@@ -3458,30 +3471,30 @@
     "apg": 0.7
   },
   {
-    "player": "Ron Harper Jr.",
+    "player": "Jalen Slawson",
     "season": "2025-26",
-    "team": "BOS",
+    "team": "IND",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 7.3,
+    "rpg": 4.4,
+    "apg": 2.8
+  },
+  {
+    "player": "Dalton Knecht",
+    "season": "2025-26",
+    "team": "LAL",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 4.2,
-    "rpg": 1.7,
-    "apg": 0.8
-  },
-  {
-    "player": "Terance Mann",
-    "season": "2025-26",
-    "team": "BRK",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 7.2,
-    "rpg": 3.2,
-    "apg": 3.0
+    "rpg": 1.4,
+    "apg": 0.4
   },
   {
     "player": "A.J. Lawson",
@@ -3536,17 +3549,30 @@
     "apg": 0.8
   },
   {
-    "player": "Myron Gardner",
+    "player": "Monte Morris",
     "season": "2025-26",
-    "team": "MIA",
+    "team": "IND",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 3.6,
-    "rpg": 2.7,
-    "apg": 1.0
+    "ppg": 3.0,
+    "rpg": 1.2,
+    "apg": 1.5
+  },
+  {
+    "player": "Mark Sears",
+    "season": "2025-26",
+    "team": "MIL",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 3.1,
+    "rpg": 0.3,
+    "apg": 0.3
   },
   {
     "player": "CJ Huntley",
@@ -3601,30 +3627,17 @@
     "apg": 0.8
   },
   {
-    "player": "Monte Morris",
+    "player": "Myron Gardner",
     "season": "2025-26",
-    "team": "IND",
+    "team": "MIA",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 3.0,
-    "rpg": 1.2,
-    "apg": 1.5
-  },
-  {
-    "player": "Olivier Sarr",
-    "season": "2025-26",
-    "team": "CLE",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 3.5,
-    "rpg": 2.8,
-    "apg": 1.3
+    "ppg": 3.6,
+    "rpg": 2.7,
+    "apg": 1.0
   },
   {
     "player": "Kobe Bufkin",
@@ -3718,32 +3731,6 @@
     "apg": 0.6
   },
   {
-    "player": "Kevon Looney",
-    "season": "2025-26",
-    "team": "NOP",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 2.8,
-    "rpg": 5.6,
-    "apg": 1.6
-  },
-  {
-    "player": "Mark Sears",
-    "season": "2025-26",
-    "team": "MIL",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 3.1,
-    "rpg": 0.3,
-    "apg": 0.3
-  },
-  {
     "player": "Miles Kelly",
     "season": "2025-26",
     "team": "DAL",
@@ -3781,6 +3768,32 @@
     "ppg": 3.2,
     "rpg": 1.8,
     "apg": 1.2
+  },
+  {
+    "player": "Alex Antetokounmpo",
+    "season": "2025-26",
+    "team": "MIL",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 3.2,
+    "rpg": 1.0,
+    "apg": 0.2
+  },
+  {
+    "player": "Olivier Sarr",
+    "season": "2025-26",
+    "team": "CLE",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 3.5,
+    "rpg": 2.8,
+    "apg": 1.3
   },
   {
     "player": "Keaton Wallace",
@@ -3913,56 +3926,43 @@
     "apg": 0.8
   },
   {
-    "player": "Alex Antetokounmpo",
+    "player": "Terance Mann",
     "season": "2025-26",
-    "team": "MIL",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 3.2,
-    "rpg": 1.0,
-    "apg": 0.2
-  },
-  {
-    "player": "Pat Spencer",
-    "season": "2025-26",
-    "team": "GSW",
+    "team": "BRK",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 7.2,
-    "rpg": 2.4,
-    "apg": 3.5
+    "rpg": 3.2,
+    "apg": 3.0
   },
   {
-    "player": "Ja'Kobe Walter",
+    "player": "Ben Saraf",
     "season": "2025-26",
-    "team": "TOR",
+    "team": "BRK",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 7.5,
-    "rpg": 2.6,
-    "apg": 1.2
+    "rpg": 2.1,
+    "apg": 3.3
   },
   {
-    "player": "Jalen Slawson",
+    "player": "Kobe Sanders",
     "season": "2025-26",
-    "team": "IND",
+    "team": "LAC",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
     "ppg": 7.3,
-    "rpg": 4.4,
-    "apg": 2.8
+    "rpg": 2.3,
+    "apg": 1.6
   },
   {
     "player": "Brice Sensabaugh",
@@ -4394,17 +4394,17 @@
     "apg": 2.5
   },
   {
-    "player": "Christian Braun",
+    "player": "Nikola Jovi\u0107",
     "season": "2025-26",
-    "team": "DEN",
+    "team": "MIA",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 12.0,
-    "rpg": 4.8,
-    "apg": 2.7
+    "ppg": 7.3,
+    "rpg": 3.3,
+    "apg": 2.2
   },
   {
     "player": "Max Christie",
@@ -5798,6 +5798,19 @@
     "apg": 1.6
   },
   {
+    "player": "Christian Braun",
+    "season": "2025-26",
+    "team": "DEN",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 12.0,
+    "rpg": 4.8,
+    "apg": 2.7
+  },
+  {
     "player": "Josh Hart",
     "season": "2025-26",
     "team": "NYK",
@@ -5809,19 +5822,6 @@
     "ppg": 12.0,
     "rpg": 7.4,
     "apg": 4.8
-  },
-  {
-    "player": "Kobe Sanders",
-    "season": "2025-26",
-    "team": "LAC",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 7.3,
-    "rpg": 2.3,
-    "apg": 1.6
   },
   {
     "player": "Luguentz Dort",
@@ -6032,17 +6032,17 @@
     "apg": 2.6
   },
   {
-    "player": "Luka Garza",
+    "player": "Gui Santos",
     "season": "2025-26",
-    "team": "BOS",
+    "team": "GSW",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": 8.1,
-    "rpg": 4.1,
-    "apg": 1.0
+    "ppg": 9.2,
+    "rpg": 3.9,
+    "apg": 2.3
   },
   {
     "player": "Cody Williams",
@@ -6266,6 +6266,19 @@
     "apg": 3.0
   },
   {
+    "player": "Luka Garza",
+    "season": "2025-26",
+    "team": "BOS",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 8.1,
+    "rpg": 4.1,
+    "apg": 1.0
+  },
+  {
     "player": "Bez Mbeng",
     "season": "2025-26",
     "team": "UTA",
@@ -6279,17 +6292,17 @@
     "apg": 4.1
   },
   {
-    "player": "Miles McBride",
+    "player": "Ryan Kalkbrenner",
     "season": "2025-26",
-    "team": "NYK",
+    "team": "CHO",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
-    "champion": true,
+    "champion": false,
     "all_star": false,
-    "ppg": 12.0,
-    "rpg": 2.4,
-    "apg": 2.6
+    "ppg": 7.6,
+    "rpg": 5.5,
+    "apg": 0.8
   },
   {
     "player": "Jaxson Hayes",
@@ -6318,19 +6331,6 @@
     "apg": 1.7
   },
   {
-    "player": "Ben Saraf",
-    "season": "2025-26",
-    "team": "BRK",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 7.5,
-    "rpg": 2.1,
-    "apg": 3.3
-  },
-  {
     "player": "Shai Gilgeous-Alexander",
     "season": "2025-26",
     "team": "OKC",
@@ -6342,6 +6342,32 @@
     "ppg": 31.1,
     "rpg": 4.3,
     "apg": 6.6
+  },
+  {
+    "player": "Ja'Kobe Walter",
+    "season": "2025-26",
+    "team": "TOR",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 7.5,
+    "rpg": 2.6,
+    "apg": 1.2
+  },
+  {
+    "player": "Bryce McGowens",
+    "season": "2025-26",
+    "team": "NOP",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 8.1,
+    "rpg": 2.1,
+    "apg": 1.5
   },
   {
     "player": "Bogdan Bogdanovi\u0107",
@@ -6407,58 +6433,6 @@
     "ppg": 7.3,
     "rpg": 3.3,
     "apg": 3.6
-  },
-  {
-    "player": "Nikola Jovi\u0107",
-    "season": "2025-26",
-    "team": "MIA",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 7.3,
-    "rpg": 3.3,
-    "apg": 2.2
-  },
-  {
-    "player": "Ryan Kalkbrenner",
-    "season": "2025-26",
-    "team": "CHO",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 7.6,
-    "rpg": 5.5,
-    "apg": 0.8
-  },
-  {
-    "player": "Bryce McGowens",
-    "season": "2025-26",
-    "team": "NOP",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 8.1,
-    "rpg": 2.1,
-    "apg": 1.5
-  },
-  {
-    "player": "Tyson Etienne",
-    "season": "2025-26",
-    "team": "BRK",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 7.9,
-    "rpg": 1.1,
-    "apg": 1.7
   },
   {
     "player": "Gary Trent Jr.",
@@ -6565,6 +6539,19 @@
     "apg": 1.9
   },
   {
+    "player": "Tyson Etienne",
+    "season": "2025-26",
+    "team": "BRK",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": false,
+    "all_star": false,
+    "ppg": 7.9,
+    "rpg": 1.1,
+    "apg": 1.7
+  },
+  {
     "player": "Paul Reed",
     "season": "2025-26",
     "team": "DET",
@@ -6630,19 +6617,6 @@
     "apg": 0.7
   },
   {
-    "player": "Gui Santos",
-    "season": "2025-26",
-    "team": "GSW",
-    "mvp": false,
-    "finals_mvp": false,
-    "all_nba": null,
-    "champion": false,
-    "all_star": false,
-    "ppg": 9.2,
-    "rpg": 3.9,
-    "apg": 2.3
-  },
-  {
     "player": "Taurean Prince",
     "season": "2025-26",
     "team": "MIL",
@@ -6654,6 +6628,19 @@
     "ppg": 9.2,
     "rpg": 3.1,
     "apg": 1.8
+  },
+  {
+    "player": "Miles McBride",
+    "season": "2025-26",
+    "team": "NYK",
+    "mvp": false,
+    "finals_mvp": false,
+    "all_nba": null,
+    "champion": true,
+    "all_star": false,
+    "ppg": 12.0,
+    "rpg": 2.4,
+    "apg": 2.6
   },
   {
     "player": "Tyler Burton",
@@ -7566,16 +7553,16 @@
     "apg": 1.9
   },
   {
-    "player": "League Average",
+    "player": "Chucky Hepburn",
     "season": "2025-26",
-    "team": NaN,
+    "team": "TOR",
     "mvp": false,
     "finals_mvp": false,
     "all_nba": null,
     "champion": false,
     "all_star": false,
-    "ppg": NaN,
-    "rpg": NaN,
-    "apg": NaN
+    "ppg": 0.0,
+    "rpg": 0.5,
+    "apg": 1.0
   }
 ]
